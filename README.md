@@ -16,3 +16,7 @@
 | TO | 接收邮件的邮箱 |
 
 `注意：掘金的cookie大概有一个月的有效期，所以需要定期更新Secret`
+
+![image](https://user-images.githubusercontent.com/48201991/152930205-808667a2-d7f5-49d3-bf70-75e1893f87a0.png)
+
+https://user-images.githubusercontent.com/48201991/152930205-808667a2-d7f5-49d3-bf70-75e1893f87a0.png
